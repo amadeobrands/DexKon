@@ -24,6 +24,11 @@
 </tr>
 
 <tr>
+<td><strong>Style scape</strong></td>
+<td>https://github.com/amadeobrands/DexKon/blob/master/digital-assets/Stylescape-DexKon.jpg</td>
+</tr>
+
+<tr>
 <td><strong>Technology</strong></td>
 <td>
 <strong>Webapp:</strong> Quasar (https://quasar.dev/)<br>
