@@ -1,11 +1,11 @@
-# DexKon - Collectively Strong
+# Dexkon - Collectively Strong
 
 <img src="http://www.dexkon.com/wp-content/uploads/2019/10/Dexkon-Дехкон-Collectively-strong.jpg">
 
 <table>
 <tr>
 <td><strong>Summary</strong></td>
-<td>DexKon offers tools to effectively run an Agricultural Service Cooperative, for compliance, governance, microfinance, collective insurance, market pricing, weather & specialist data and more.</td>
+<td>Dexkon offers tools to effectively run an Agricultural Service Cooperative, for compliance, governance, microfinance, collective insurance, market pricing, weather & specialist data and more.</td>
 </tr>
 
 <tr>
@@ -19,7 +19,7 @@
 </tr>
 
 <tr>
-<td><strong>Video Pitch</strong></td>
+<td><strong>Video pitch</strong></td>
 <td>https://www.youtube.com/embed/xmMsZM7A0Ec</td>
 </tr>
 
@@ -56,22 +56,22 @@
 Service cooperatives overcome this by conducting market transactions for a large number of farmers simultaneously; In dealing with a service cooperative, the market effectively deals with a relatively large entity that combines many smallholders into a single negotiating position. Access difficulties imposed by smallness are thus lifted. Though the sector seems to be ripe for their emergence, development has been slow.<br>
 There have been several initiatives to run cooperatives by donor organizations and grassroots, but so far success has been limited, mainly due to lack of access to funding, management skills, knowledge and tools.
 <br><br>
-DexKon is a smartphone/sms-based solution enabling smallholder farmers to successfully administer and participate in Service Cooperatives. This application provides solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. 
+Dexkon is a smartphone/sms-based solution enabling smallholder farmers to successfully administer and participate in Service Cooperatives. This application provides solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. 
 This application allows Smallholder farmers to work together, which will improve their financial situation.
 </p>
-<h1>DexKon (Дехкон) - Collectively strong</h1>
+<h1>Dexkon (Дехкон) - Collectively strong</h1>
 <img align="left" width="250" src="https://github.com/amadeobrands/DexKon/blob/master/digital-assets/DexKon%20-%20splash.png">
-<p align="justify">This app consists of two segments, where one is focused on the local farming leaders & the other part on the local farmers. Because of the limited technology & internet accessibility, we have chosen for a mobile app (administrator) & SMS (local farmer) set-up to ensure a higher usage rate. The objective for DexKon is to provide a platform for farmers to be more collaborative and educated by offering them the latest technologies via their cooperative leaders, mobile apps and SMS which in term will solve our main goals:
+<p align="justify">This app consists of two segments, where one is focused on the local farming leaders & the other part on the local farmers. Because of the limited technology & internet accessibility, we have chosen for a mobile app (administrator) & SMS (local farmer) set-up to ensure a higher usage rate. The objective for Dexkon is to provide a platform for farmers to be more collaborative and educated by offering them the latest technologies via their cooperative leaders, mobile apps and SMS which in term will solve our main goals:
 <ul>
-  <li>Provides them with mobile finance</li>
-  <li>Digital Identity</li>
-  <li>Increase farmer income</li>
-  <li>Enable access to Insurance and Loan</li>
-  <li>Access to new products and services</li>
-  <li>Empowerment of small farmers</li>
-  <li>A better life for families and local community.</li>
+<li>Provides farmers with mobile financial systems</li>
+<li>Create a digital identity</li>
+<li>Increase farmers income</li>
+<li>Enable access to insurance and loans</li>
+<li>Access to new products and services</li>
+<li>Empowerment of individual farmers</li>
+<li>A better life for families and local community.</li>
 </ul>
-We can reach these goals in an easy/sustainable way by creating communities of farmer cooperatives so that these farmers can organise themselves better. And by embedding trustless governance components in this setup we can create systems that will be fair and transparent for all without corrupt middelman.
+<p>We can reach these goals in an easy/sustainable way by creating communities of farmer cooperatives so that these farmers can organise themselves better. And by embedding trustless governance components in this setup we can create systems that will be fair and transparent for all without corrupt middelman.
 </p>
 
 <h2>Phases of Adoption</h2>
