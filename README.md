@@ -24,7 +24,7 @@
 </tr>
 
 <tr>
-<td><strong>Style scape</strong></td>
+<td><strong>Stylescape</strong></td>
 <td>https://github.com/amadeobrands/DexKon/blob/master/digital-assets/Stylescape-DexKon.jpg</td>
 </tr>
 
