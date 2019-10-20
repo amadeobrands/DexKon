@@ -35,7 +35,6 @@
 </tr>
 </table>
 
-
 <h1>Elevator Pitch</h1>
 Though the individualization of Central Asian agriculture has enabled the impressive recovery in agricultural production, smallholder farmers are now suffering from the “curse of smallness”, preventing them from fully exploiting their inherent productivity advantages due to barriers in access to markets.<br>
 Service cooperatives overcome this by conducting market transactions for a large number of farmers simultaneously; In dealing with a service cooperative, the market effectively deals with a relatively large entity that combines many smallholders into a single negotiating position. Access difficulties imposed by smallness are thus lifted. Though the sector seems to be ripe for their emergence, development has been slow.<br>
@@ -55,18 +54,10 @@ This app consists of two segments, where one is focused on the local farming lea
   <li>Empowerment of small farmers</li>
   <li>A better life for families and local community.</li>
 </ul>
-We can reach these goals by creating communities of farmer cooperatives so that these farmers can organise themselves better. And by embedding trustless governance components in this setup we can create systems that will be fair and transparent for all without corrupt middelman.
+We can reach these goals in an easy/sustainable way by creating communities of farmer cooperatives so that these farmers can organise themselves better. And by embedding trustless governance components in this setup we can create systems that will be fair and transparent for all without corrupt middelman.
 
-Phases of Adoption
+<h2>Phases of Adoption</h2>
 For our partners in the field (Donor organizations and Government), we identified the 4 “Phases of Adoption”. 
-
-
-
-<br><br>
-DexKon provides a solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. In order to roll out our application to the farmers it is important to have a strong plan! That is why we created this 3 step plan towards sustainable adoption of DexKon:
-
-
-
 
 <table>
 <tbody>
@@ -127,3 +118,19 @@ DexKon provides a solutions for compliance, governance, finance (microfinancing,
 </tr>
 </tbody>
 </table>
+<h2>Adoption flow</h2>
+DexKon provides a solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. In order to roll out our application to the farmers it is important to have a strong plan! That is why we created this 3 step plan towards sustainable adoption of DexKon:
+<ul>
+  <li>Digitize the cooperative</li>
+  <li>Collaborative Trading</li>
+  <li>Fintech and other advanced features</li>
+</ul>
+
+<h3>Step01 | Digitize the cooperative</h3>
+In order for DexKon to be adopted and solve the “curse of smallness” we need to create an easy/sustainable way for cooperatives to be created and managed in a compliant way with local regulations and cultural standards in mind. 
+<img src="http://www.dexkon.com/wp-content/uploads/2019/10/Dexkon-Дехкон-coop.jpg">
+
+<h3>Step02 | Collaborative Trading</h3>
+When a Cooperative is created on DexKon direct value needs to be added in order for the farmers to start using the app. To achieve this goals we go to the roots of a farmers cooperative and improve and digitlitize the workflow for collecting, selling and distributing small hold farmers harvests and it’s earnings.
+<img src="http://www.dexkon.com/wp-content/uploads/2019/10/Dexkon-Дехкон-Collaborative-Trading.jpg">
+
