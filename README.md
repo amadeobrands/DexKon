@@ -57,124 +57,73 @@ This app consists of two segments, where one is focused on the local farming lea
 </ul>
 We can reach these goals by creating communities of farmer cooperatives so that these farmers can organise themselves better. And by embedding trustless governance components in this setup we can create systems that will be fair and transparent for all without corrupt middelman.
 
-DexKon provides a solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. In order to roll out our application to the farmers it is important to have a strong plan for this that is why we created this 3 step plan towards mass adoption of DexKon:
+Phases of Adoption
+For our partners in the field (Donor organizations and Government), we identified the 4 “Phases of Adoption”. 
+
+
+
+<br><br>
+DexKon provides a solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. In order to roll out our application to the farmers it is important to have a strong plan! That is why we created this 3 step plan towards sustainable adoption of DexKon:
+
 
 
 
 <table>
-
 <tbody>
-
 <tr>
-
 <td>
-
 <p><span style="font-weight: 400;">0</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">Introduction</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">Local group or cooperative is introduced to Dexkon, through a presentation or demonstration.&nbsp;</span></p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td>
-
 <p><span style="font-weight: 400;">1</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">Community + Knowledge</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">The cooperative formalizes and supports basic community functions through Dexkon. Government compliance support, membership management and basic decision making. Dexkon is available to members as source of knowledge through GSM and smartphone.</span></p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td>
-
 <p><span style="font-weight: 400;">2</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">Trading</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">Dexkon is used for price awareness of input/output goods by members, as well as collective bargaining for these goods. Volume and prices can be agreed upon and proceeds are distributed among members.</span></p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td>
-
 <p><span style="font-weight: 400;">3</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">Finance + Asset Pool</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">Members have access to collective no-collateral borrowing facilities and the cooperative can use global money markets and Decentralized Finance for loans and investment/savings. This also gives access to novel insurance schemes such as Decentralized Crop Insurance. Besides this, the cooperative manages allocation of its Movable and Immovable assets using Dexkon.</span></p>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td>
-
 <p><span style="font-weight: 400;">4</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">Advanced</span></p>
-
 </td>
-
 <td>
-
 <p><span style="font-weight: 400;">Integration with Consumer Cooperatives (sell directly to consumers)</span></p>
-
 </td>
-
 </tr>
-
 </tbody>
-
 </table>
