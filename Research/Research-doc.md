@@ -25,6 +25,7 @@
   <li>Lerman, Zvi (2013) Cooperative development in Central Asia, FAO Regional Office for Europe and Central Asia Policy Studies on Rural Transition No. 2013-4</li>
   <li>Beyshenaly, N. and Namazova, B. (2012). Development of Agricultural Cooperatives in the Kyrgyz Republic [in Russian], IAIR – Institute for Analysis and Development Initiatives, Bishkek.</li>
   <li>Romina Cavatassi, Paola Mallia (2018), Impact Assessment Report: Livestock and Pasture Development Project (LPDP)</li>
+ </ul>
 <ul>
 <h1>Real World Examples</h1>
 <ul>
