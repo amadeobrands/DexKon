@@ -46,6 +46,7 @@
 </table>
 
 <h1>Elevator Pitch</h1>
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 Though the individualization of Central Asian agriculture has enabled the impressive recovery in agricultural production, smallholder farmers are now suffering from the “curse of smallness”, preventing them from fully exploiting their inherent productivity advantages due to barriers in access to markets.<br>
 Service cooperatives overcome this by conducting market transactions for a large number of farmers simultaneously; In dealing with a service cooperative, the market effectively deals with a relatively large entity that combines many smallholders into a single negotiating position. Access difficulties imposed by smallness are thus lifted. Though the sector seems to be ripe for their emergence, development has been slow.<br>
 There have been several initiatives to run cooperatives by donor organizations and grassroots, but so far success has been limited, mainly due to lack of access to funding, management skills, knowledge and tools.
@@ -65,6 +66,9 @@ This app consists of two segments, where one is focused on the local farming lea
   <li>A better life for families and local community.</li>
 </ul>
 We can reach these goals in an easy/sustainable way by creating communities of farmer cooperatives so that these farmers can organise themselves better. And by embedding trustless governance components in this setup we can create systems that will be fair and transparent for all without corrupt middelman.
+
+
+
 
 <h2>Phases of Adoption</h2>
 For our partners in the field (Donor organizations and Government), we identified the 4 “Phases of Adoption”. 
