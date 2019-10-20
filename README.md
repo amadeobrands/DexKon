@@ -55,7 +55,7 @@ DexKon is a smartphone/sms-based solution enabling smallholder farmers to succes
 This application allows Smallholder farmers to work together, which will improve their financial situation.
 </p>
 <h1>DexKon (Дехкон) - Collectively strong</h1>
-<img align="right" width="250" src="https://github.com/amadeobrands/DexKon/blob/master/digital-assets/DexKon%20-%20splash.png">
+<img align="left" width="250" src="https://github.com/amadeobrands/DexKon/blob/master/digital-assets/DexKon%20-%20splash.png">
 <p align="justify">This app consists of two segments, where one is focused on the local farming leaders & the other part on the local farmers. Because of the limited technology & internet accessibility, we have chosen for a mobile app (administrator) & SMS (local farmer) set-up to ensure a higher usage rate. The objective for DexKon is to provide a platform for farmers to be more collaborative and educated by offering them the latest technologies via their cooperative leaders, mobile apps and SMS which in term will solve our main goals:
 <ul>
   <li>Provides them with mobile finance</li>
