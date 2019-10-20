@@ -136,7 +136,7 @@ When a Cooperative is created on DexKon direct value needs to be added in order 
 
 <h3>Step03 | Fintech and other advanced features</h3>
 When we have DexKon integrated and adopted by the smallholder farmers community the real power of DexKon and its modern architecture can be fully utilized. DexKon is leveraging the latest technologies via the DexKon app and will functions as a bridge towards modern financial and supporting services for the farmers. DexKon will be constructed as an interface for Smallholder Farmers to the modern world of agriculture and finance and by leveraging a microservices architecture, on the backend the application itself can grow modulaire and other services and partners can integrate easily. Below is a diagram that shows a high level overview of the overall solution that DexKon will offer to cooperatives and small hold farmers.
-<img src="http://www.dexkon.com/wp-content/uploads/2019/10/Dexkon-Дехкон-Collaborative-Trading.jpg">
+<img src="http://www.dexkon.com/wp-content/uploads/2019/10/Dexkon-Дехкон-Solution.jpg">
 
 <h1>Feature Chart</h1>
 <p>
