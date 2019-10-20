@@ -20,7 +20,7 @@
 
 <tr>
 <td><strong>Video pitch</strong></td>
-<td>https://youtu.be/riUWgwskCAY</td>
+<td>https://www.youtube.com/watch?v=riUWgwskCAY</td>
 </tr>
 
 <tr>
