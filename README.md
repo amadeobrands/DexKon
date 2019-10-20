@@ -52,7 +52,7 @@ Service cooperatives overcome this by conducting market transactions for a large
 There have been several initiatives to run cooperatives by donor organizations and grassroots, but so far success has been limited, mainly due to lack of access to funding, management skills, knowledge and tools.
 <br><br>
 DexKon is a smartphone/sms-based solution enabling smallholder farmers to successfully administer and participate in Service Cooperatives. This application provides solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. 
-This application allows Smallholder farmers to work together, which will improve their financial situation.</p>
+This application allows Smallholder farmers to work together, which will improve their financial situation.
 
 <h1>DexKon (Дехкон) - Collectively strong</h1>
 This app consists of two segments, where one is focused on the local farming leaders & the other part on the local farmers. Because of the limited technology & internet accessibility, we have chosen for a mobile app (administrator) & SMS (local farmer) set-up to ensure a higher usage rate. The objective for DexKon is to provide a platform for farmers to be more collaborative and educated by offering them the latest technologies via their cooperative leaders, mobile apps and SMS which in term will solve our main goals:
@@ -492,3 +492,4 @@ When we have DexKon integrated and adopted by the smallholder farmers community 
     </tbody>
   </table>
 </div>
+</p>
