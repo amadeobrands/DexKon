@@ -135,7 +135,126 @@ When a Cooperative is created on DexKon direct value needs to be added in order 
 <img src="http://www.dexkon.com/wp-content/uploads/2019/10/Dexkon-Дехкон-Collaborative-Trading.jpg">
 
 <h1>Feature Chart</h1>
-
+<p>
+  <br>
+</p>
+<div align="left" dir="ltr" style="margin-left:-15pt;">
+  <table style="border:none;border-collapse:collapse;">
+    <tbody>
+      <tr style="height:26pt;">
+        <td rowspan="3" style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:middle;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Community</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Compliance</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tools and templates to keep the Cooperative compliant with government regulations</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Membership</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Manage membership of the Cooperative</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Decisions</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Allow members to vote on proposed Decisions</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td rowspan="2" style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:middle;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Trade Manager</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Input</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tools for price discovery and collective bargaining for input goods (fertilizer, seeds)</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Output</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tools for price discovery and collective negotiation for outputs (crops, dairy, etc)</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td rowspan="2" style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:middle;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Knowledge</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Specialist&nbsp;</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Management and access to pool of agricultural specialists</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Information Services</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Interactive SMS access to information services (agricultural, veterinary, medical, etc)</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td rowspan="3" style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:middle;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Finance</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Loans</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Management of collective loans by the cooperative, includes Decentralized Finance.</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Saving</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Management of collective investments and savings by the cooperative, includes Decentralized Finance.</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Insurance</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Collective insurance solutions, includes Decentralized Finance</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td rowspan="2" style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:middle;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Asset Pool</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Movable</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Management and allocation of movable assets such as machinery and high-tech equipment</span></p>
+        </td>
+      </tr>
+      <tr style="height:19pt;">
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Arial;color:#292829;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Immovable</span></p>
+        </td>
+        <td style="border-left:solid #9e9e9e 1pt;border-right:solid #9e9e9e 1pt;border-bottom:solid #9e9e9e 1pt;border-top:solid #9e9e9e 1pt;vertical-align:top;padding:7pt 7pt 7pt 7pt;overflow:hidden;overflow-wrap:break-word;">
+          <p dir="ltr" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:8pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Management and allocation of immovable assets such as warehousing, production facilities</span></p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <h1>SMS Command Interface</h1>
 <p>
