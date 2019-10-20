@@ -28,6 +28,126 @@ We can reach these goals by creating communities of farmer cooperatives so that 
 DexKon provides a solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. In order to roll out our application to the farmers it is important to have a strong plan for this that is why we created this 3 step plan towards mass adoption of DexKon:
 
 
+<p>&nbsp;</p>
+
+<table>
+
+<tbody>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">0</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Introduction</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Local group or cooperative is introduced to Dexkon, through a presentation or demonstration.&nbsp;</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">1</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Community + Knowledge</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">The cooperative formalizes and supports basic community functions through Dexkon. Government compliance support, membership management and basic decision making. Dexkon is available to members as source of knowledge through GSM and smartphone.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">2</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Trading</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Dexkon is used for price awareness of input/output goods by members, as well as collective bargaining for these goods. Volume and prices can be agreed upon and proceeds are distributed among members.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">3</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Finance + Asset Pool</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Members have access to collective no-collateral borrowing facilities and the cooperative can use global money markets and Decentralized Finance for loans and investment/savings. This also gives access to novel insurance schemes such as Decentralized Crop Insurance. Besides this, the cooperative manages allocation of its Movable and Immovable assets using Dexkon.</span></p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<p><span style="font-weight: 400;">4</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Advanced</span></p>
+
+</td>
+
+<td>
+
+<p><span style="font-weight: 400;">Integration with Consumer Cooperatives (sell directly to consumers)</span></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
 <table>
 <tr>
 <td><strong>Description</strong></td>
