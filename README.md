@@ -46,16 +46,17 @@
 </table>
 
 <h1>Elevator Pitch</h1>
-<img align="right" width="200" src="https://github.com/amadeobrands/DexKon/blob/master/digital-assets/LOGO_ICON_STANDARD.png">
+<img align="right" width="250" src="https://github.com/amadeobrands/DexKon/blob/master/digital-assets/Stylescape-DexKon.jpg">
 <p align="justify">Though the individualization of Central Asian agriculture has enabled the impressive recovery in agricultural production, smallholder farmers are now suffering from the “curse of smallness”, preventing them from fully exploiting their inherent productivity advantages due to barriers in access to markets.<br>
 Service cooperatives overcome this by conducting market transactions for a large number of farmers simultaneously; In dealing with a service cooperative, the market effectively deals with a relatively large entity that combines many smallholders into a single negotiating position. Access difficulties imposed by smallness are thus lifted. Though the sector seems to be ripe for their emergence, development has been slow.<br>
 There have been several initiatives to run cooperatives by donor organizations and grassroots, but so far success has been limited, mainly due to lack of access to funding, management skills, knowledge and tools.
 <br><br>
 DexKon is a smartphone/sms-based solution enabling smallholder farmers to successfully administer and participate in Service Cooperatives. This application provides solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. 
 This application allows Smallholder farmers to work together, which will improve their financial situation.
-
+</p>
 <h1>DexKon (Дехкон) - Collectively strong</h1>
-This app consists of two segments, where one is focused on the local farming leaders & the other part on the local farmers. Because of the limited technology & internet accessibility, we have chosen for a mobile app (administrator) & SMS (local farmer) set-up to ensure a higher usage rate. The objective for DexKon is to provide a platform for farmers to be more collaborative and educated by offering them the latest technologies via their cooperative leaders, mobile apps and SMS which in term will solve our main goals:
+<img align="right" width="250" src="https://github.com/amadeobrands/DexKon/blob/master/digital-assets/DexKon%20-%20splash.png">
+<p align="justify">This app consists of two segments, where one is focused on the local farming leaders & the other part on the local farmers. Because of the limited technology & internet accessibility, we have chosen for a mobile app (administrator) & SMS (local farmer) set-up to ensure a higher usage rate. The objective for DexKon is to provide a platform for farmers to be more collaborative and educated by offering them the latest technologies via their cooperative leaders, mobile apps and SMS which in term will solve our main goals:
 <ul>
   <li>Provides them with mobile finance</li>
   <li>Digital Identity</li>
@@ -66,9 +67,7 @@ This app consists of two segments, where one is focused on the local farming lea
   <li>A better life for families and local community.</li>
 </ul>
 We can reach these goals in an easy/sustainable way by creating communities of farmer cooperatives so that these farmers can organise themselves better. And by embedding trustless governance components in this setup we can create systems that will be fair and transparent for all without corrupt middelman.
-
-
-
+</p>
 
 <h2>Phases of Adoption</h2>
 For our partners in the field (Donor organizations and Government), we identified the 4 “Phases of Adoption”. 
@@ -141,15 +140,15 @@ DexKon provides a solutions for compliance, governance, finance (microfinancing,
 </ul>
 
 <h3>Step01 | Digitize the cooperative</h3>
-In order for DexKon to be adopted and solve the “curse of smallness” we need to create an easy/sustainable way for cooperatives to be created and managed in a compliant way with local regulations and cultural standards in mind. 
+<p align="justify">In order for DexKon to be adopted and solve the “curse of smallness” we need to create an easy/sustainable way for cooperatives to be created and managed in a compliant way with local regulations and cultural standards in mind.</p>
 <img src="http://www.dexkon.com/wp-content/uploads/2019/10/Dexkon-Дехкон-coop.jpg">
 
 <h3>Step02 | Collaborative Trading</h3>
-When a Cooperative is created on DexKon direct value needs to be added in order for the farmers to start using the app. To achieve this goals we go to the roots of a farmers cooperative and improve and digitlitize the workflow for collecting, selling and distributing small hold farmers harvests and it’s earnings.
+<p align="justify">When a Cooperative is created on DexKon direct value needs to be added in order for the farmers to start using the app. To achieve this goals we go to the roots of a farmers cooperative and improve and digitlitize the workflow for collecting, selling and distributing small hold farmers harvests and it’s earnings.</p>
 <img src="http://www.dexkon.com/wp-content/uploads/2019/10/Dexkon-Дехкон-Collaborative-Trading.jpg">
 
 <h3>Step03 | Fintech and other advanced features</h3>
-When we have DexKon integrated and adopted by the smallholder farmers community the real power of DexKon and its modern architecture can be fully utilized. DexKon is leveraging the latest technologies via the DexKon app and will functions as a bridge towards modern financial and supporting services for the farmers. DexKon will be constructed as an interface for Smallholder Farmers to the modern world of agriculture and finance and by leveraging a microservices architecture, on the backend the application itself can grow modulaire and other services and partners can integrate easily. Below is a diagram that shows a high level overview of the overall solution that DexKon will offer to cooperatives and small hold farmers.
+<p align="justify">When we have DexKon integrated and adopted by the smallholder farmers community the real power of DexKon and its modern architecture can be fully utilized. DexKon is leveraging the latest technologies via the DexKon app and will functions as a bridge towards modern financial and supporting services for the farmers. DexKon will be constructed as an interface for Smallholder Farmers to the modern world of agriculture and finance and by leveraging a microservices architecture, on the backend the application itself can grow modulaire and other services and partners can integrate easily. Below is a diagram that shows a high level overview of the overall solution that DexKon will offer to cooperatives and small hold farmers.</p>
 <img src="http://www.dexkon.com/wp-content/uploads/2019/10/Dexkon-Дехкон-Solution.jpg">
 
 <h1>Feature Chart</h1>
@@ -492,4 +491,3 @@ When we have DexKon integrated and adopted by the smallholder farmers community 
     </tbody>
   </table>
 </div>
-</p>
