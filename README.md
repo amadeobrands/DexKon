@@ -14,6 +14,11 @@
 </tr>
 
 <tr>
+<td><strong>Pitch deck</strong></td>
+<td>https://www.youtube.com/embed/xmMsZM7A0Ec</td>
+</tr>
+
+<tr>
 <td><strong>Video Pitch</strong></td>
 <td>https://www.youtube.com/embed/xmMsZM7A0Ec</td>
 </tr>
