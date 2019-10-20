@@ -20,7 +20,7 @@
 
 <tr>
 <td><strong>Video pitch</strong></td>
-<td>https://www.youtube.com/embed/xmMsZM7A0Ec</td>
+<td>http://www.dexkon.com/adp-pitch.MP4</td>
 </tr>
 
 <tr>
