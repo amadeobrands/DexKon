@@ -25,7 +25,7 @@
 
 <tr>
 <td><strong>Video Script</strong></td>
-<td>https://www.youtube.com/embed/xmMsZM7A0Ec</td>
+<td>https://www.youtube.com</td>
 </tr>
 
 <tr>
