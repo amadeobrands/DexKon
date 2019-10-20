@@ -24,6 +24,11 @@
 </tr>
 
 <tr>
+<td><strong>Video Script</strong></td>
+<td>https://www.youtube.com/embed/xmMsZM7A0Ec</td>
+</tr>
+
+<tr>
 <td><strong>Website</strong></td>
 <td>http://www.dexkon.com/</td>
 </tr>
