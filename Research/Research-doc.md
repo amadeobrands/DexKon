@@ -35,7 +35,6 @@
 <li>EXPECTED growth in the agricultural sector has highlighted the need for cooperatives to step into the gap when the government and banks fail to supply credit.</li>
 <li>Asian Farmers’ Association (AFA) Cooperative Development Program Director Cresente C. Paez noted that some savings and credit cooperatives are starting to expand their services to farmers.</li>
 </ul>
-<ul>
 <li>Kisan Suvidha - Information</li>
   <ul>
 <li>http://vikaspedia.in/agriculture/ict-applications-in-agriculture/kisan-call-center-app</li>
@@ -52,7 +51,7 @@
   <ul>
 <li>https://www.agridigital.io/</li>
   </ul>
-  </ul>
+ </ul>
   <h1>Technological</h1>
   <ul>
 <li>Aragon</li>
