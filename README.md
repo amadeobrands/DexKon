@@ -46,7 +46,7 @@
 </table>
 
 <h1>Elevator Pitch</h1>
-<img align="right" width="100" height="100" src="https://github.com/amadeobrands/DexKon/blob/master/digital-assets/LOGO_ICON_STANDARD.png">
+<img align="right" width="200" src="https://github.com/amadeobrands/DexKon/blob/master/digital-assets/LOGO_ICON_STANDARD.png">
 Though the individualization of Central Asian agriculture has enabled the impressive recovery in agricultural production, smallholder farmers are now suffering from the “curse of smallness”, preventing them from fully exploiting their inherent productivity advantages due to barriers in access to markets.<br>
 Service cooperatives overcome this by conducting market transactions for a large number of farmers simultaneously; In dealing with a service cooperative, the market effectively deals with a relatively large entity that combines many smallholders into a single negotiating position. Access difficulties imposed by smallness are thus lifted. Though the sector seems to be ripe for their emergence, development has been slow.<br>
 There have been several initiatives to run cooperatives by donor organizations and grassroots, but so far success has been limited, mainly due to lack of access to funding, management skills, knowledge and tools.
