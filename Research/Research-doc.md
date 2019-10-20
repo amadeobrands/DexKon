@@ -1,6 +1,6 @@
 <h1>Academic Research</h1>
 See research documents in this <a href="https://github.com/amadeobrands/DexKon/tree/master/Research/documents" target="_blank">Folder</a>
-https://www.slideshare.net/FAOoftheUN/cooperatives-in-risk-and-vulnerability-management
+<a href="https://www.slideshare.net/FAOoftheUN/cooperatives-in-risk-and-vulnerability-management" target="_blank">https://www.slideshare.net/FAOoftheUN/cooperatives-in-risk-and-vulnerability-management</a>
 https://www.google.com/search?client=ubuntu&hs=IzW&channel=fs&ei=CMySXYf8MMrchwOK46qABA&q=cooperatives+zvi+lerman&oq=cooperatives+zvi+lerman&gs_l=psy-ab.3...1971.3510..3619...0.0..0.174.1247.8j4......0....1..gws-wiz.Kt_GbhF-LlE&ved=0ahUKEwiHoMWOk_rkAhVK7mEKHYqxCkAQ4dUDCAo&uact=5
 https://www.researchgate.net/profile/Zvi_Lerman/publication/305331178_Cooperative_Development_in_Central_Asia/links/5788d42208ae378efdda338c/Cooperative-Development-in-Central-Asia.pdf
 http://ageconsearch.umn.edu/record/44674/files/34010001.pdf
