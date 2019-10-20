@@ -47,12 +47,12 @@
 
 <h1>Elevator Pitch</h1>
 <img align="right" width="200" src="https://github.com/amadeobrands/DexKon/blob/master/digital-assets/LOGO_ICON_STANDARD.png">
-Though the individualization of Central Asian agriculture has enabled the impressive recovery in agricultural production, smallholder farmers are now suffering from the “curse of smallness”, preventing them from fully exploiting their inherent productivity advantages due to barriers in access to markets.<br>
+<p align="justify">Though the individualization of Central Asian agriculture has enabled the impressive recovery in agricultural production, smallholder farmers are now suffering from the “curse of smallness”, preventing them from fully exploiting their inherent productivity advantages due to barriers in access to markets.<br>
 Service cooperatives overcome this by conducting market transactions for a large number of farmers simultaneously; In dealing with a service cooperative, the market effectively deals with a relatively large entity that combines many smallholders into a single negotiating position. Access difficulties imposed by smallness are thus lifted. Though the sector seems to be ripe for their emergence, development has been slow.<br>
 There have been several initiatives to run cooperatives by donor organizations and grassroots, but so far success has been limited, mainly due to lack of access to funding, management skills, knowledge and tools.
 <br><br>
 DexKon is a smartphone/sms-based solution enabling smallholder farmers to successfully administer and participate in Service Cooperatives. This application provides solutions for compliance, governance, finance (microfinancing, collective insurance), access to pricing, weather and specialist data, and management of shared asset pools such as warehousing and machinery. 
-This application allows Smallholder farmers to work together, which will improve their financial situation. 
+This application allows Smallholder farmers to work together, which will improve their financial situation.</p>
 
 <h1>DexKon (Дехкон) - Collectively strong</h1>
 This app consists of two segments, where one is focused on the local farming leaders & the other part on the local farmers. Because of the limited technology & internet accessibility, we have chosen for a mobile app (administrator) & SMS (local farmer) set-up to ensure a higher usage rate. The objective for DexKon is to provide a platform for farmers to be more collaborative and educated by offering them the latest technologies via their cooperative leaders, mobile apps and SMS which in term will solve our main goals:
